@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MuratEmirhanAlptekin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C,JS,python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in web development, smart contracts, linux 
+- 🌱 I’m currently learning Js, Solidity
 - 📫 How to reach me alptekine2@gmail.com
 
 <!---
