@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MuratEmirhanAlptekin
-- 👀 I’m interested in web development, smart contracts, linux 
+- 👀 I’m interested in web development, smart contracts, FOSS
 - 🌱 I’m currently learning Js, Solidity
 - 📫 How to reach me alptekine2@gmail.com
 
